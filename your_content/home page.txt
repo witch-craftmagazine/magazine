@@ -41,7 +41,7 @@
     </h1>
 
     <p class="p-note">
-      P.S. contact ee33 for bug reports
+      P.S. contact [redacted] for bug reports
     </p>
 
     <h1>
