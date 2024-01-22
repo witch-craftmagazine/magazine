@@ -60,7 +60,7 @@ div#blurb {
 
 h1#page-title {
     color: black;  /* Color of the page title */
-    font-size: 3em;  /* Font size of the post title */
+    font-size: 0.5em;  /* Font size of the post title */
 }
 
 div#post-date {
