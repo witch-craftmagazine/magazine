@@ -44,7 +44,7 @@
       P.S. contact ee33 for bug reports
     </p>
 
-    <h2>
+    <h1>
     <ul>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue01-01"Issue 1</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue02-01"Issue 2</a></li>
@@ -61,7 +61,7 @@
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue13-01"Christmas Edition</a></li>
       More to come! (missing a couple I think...)
     </ul>
-    </h2>
+    </h1>
 
     <ul>
       <!-- Replace __this_page__ with your domain -->
