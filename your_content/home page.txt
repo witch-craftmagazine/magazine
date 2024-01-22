@@ -6,6 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+  <meta property="og:image" content="https://witch-craftmagazine.github.io/magazine/your_content/images/banner.png">
+  <link rel="shortcut icon" type="image/x-icon" href="https://witch-craftmagazine.github.io/magazine/favicon.ico">
   <title>Witchcraft Magazine</title>
   <style>
     @media (prefers-color-scheme: dark) {
