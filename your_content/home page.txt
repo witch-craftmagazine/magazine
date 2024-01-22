@@ -6,14 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-  <!-- To use social readers via microsub, follow these steps.
-    (Details: https://indieweb.org/Microsub#Getting_Started)
-    1. After publishing this to your domain, sign in to https://aperture.p3k.io/login with your domain
-    2. You will see a <link> tag displayed on your dashboard that looks like:
-      <link rel="microsub" href="https://aperture.p3k.io/microsub/000">
-    3. Copy that <link> tag and paste it after this HTML comment.
-    4. Publish the updated page!
-   -->
   <title>Witchcraft Magazine</title>
   <style>
     @media (prefers-color-scheme: dark) {
@@ -43,12 +35,30 @@
       <img class="u-photo" alt="My profile photo" src="__your_image__" />
     -->
     <h1>
-      I'm <span class="p-name">the magazine. I have become sentient.</span>.
+      I am <span class="p-name">the magazine. I have become sentient.</span>.
     </h1>
 
     <p class="p-note">
-      here we go again...
+      P.S. contact ee33 for bug reports
     </p>
+
+    <h2>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue01-01"Issue 1</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue02-01"Issue 2</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue03-01"Issue 3</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue04-01"Issue 4</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue05-01"Issue 5</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue06-01"Halloween Edition</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue07-01"Christmas Edition</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue08-01"Issue 8</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue09-01"Issue 9</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue10-01"Issue 10</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue11-01"Halloween Edition</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue12-01"Halloween Special</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue13-01"Christmas Edition</a></li>
+      More to come! (missing a couple I think...)
+
+    </h2>
 
     <ul>
       <!-- Replace __this_page__ with your domain -->
