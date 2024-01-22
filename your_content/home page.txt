@@ -45,6 +45,7 @@
     </p>
 
     <h2>
+    <ul>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue01-01"Issue 1</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue02-01"Issue 2</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue03-01"Issue 3</a></li>
@@ -59,7 +60,7 @@
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue12-01"Halloween Special</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue13-01"Christmas Edition</a></li>
       More to come! (missing a couple I think...)
-
+    </ul>
     </h2>
 
     <ul>
