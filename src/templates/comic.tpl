@@ -60,7 +60,7 @@
     {% endif %}
     </div>
 
-    <div id="blurb" class="giscus"></div>
+    <div id="blurb"
         <h1 id="page-title">{{ page_title }}</h1>
         <h3 id="post-date">Posted on: {{ post_date }}</h3>
         {%- if storyline %}
@@ -122,6 +122,7 @@
             </tr>
         </table>
         {% endif %}
+    <div class="giscus"> </div>
     </div>
 {%- endblock %}
 {%- block script %}
