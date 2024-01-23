@@ -1,2 +1,24 @@
 Here are the pages that I have collected from Deathcap Island...
 
+<h1>
+<ul>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/trapdoorbandit-01">The Trapdoor Bandit</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/fernsword-01">Fern’s Sword</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/sweetpeashadows-01">Sweetpea’s Book Of Shadows (Excerpt)</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/linkslab-01">Links Laboratory Health & Safety Manual</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/sweetpeasecret-01">Sweetpea’s ‘Top Secret’ Secret</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/fileinlinksoffice-01">The File In Dr. Link’s Office</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/atcreport-01">Top Secret: Air Traffic Control Report</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/netherlabresearch-01">Nether Laboratory: Research Journal #1 </a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/deeplabdisclaimers-01">The Deep Lab Disclaimer & Rules</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/soulcorp-01">Soulcorp: The Lost Journal</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/giantplant-01">The Giant Plant</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/dragonhotelritual-01">The Dragon Hotel- Attic Ritual</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/maze-01">The Maze</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/sweetpeamanifesto-01">The Manifesto Of Sweetpea: Witch & Flower Maiden</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/mysterious-01">The Mysterious Unsigned Books</a></li>
+<li><a href="https://witch-craftmagazine.github.io/magazine/extras/comic/noteonexistence-01">A Note About Existence By Unknown</a></li>
+</ul>
+</h1>
+
+(Not) Trivia: “being of unsound mind” never fails to make me smile and sums everything up.
