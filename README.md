@@ -22,3 +22,4 @@ A statically-hosted web comic server core intended to be hosted on github.io
 # And 
 
 [IndieWeb Blank Website Template](https://github.com/indieweb/blank-gh-site)
+[Giscus](https://github.com/giscus/giscus)
