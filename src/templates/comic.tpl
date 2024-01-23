@@ -60,7 +60,7 @@
     {% endif %}
     </div>
 
-    <div id="blurb">
+    <div id="blurb" class="giscus">
         <h1 id="page-title">{{ page_title }}</h1>
         <h3 id="post-date">Posted on: {{ post_date }}</h3>
         {%- if storyline %}
@@ -131,4 +131,19 @@
     init();
 </script>
 {% endif %}
+<script src="https://giscus.app/client.js"
+        data-repo="witch-craftmagazine/magazine"
+        data-repo-id="R_kgDOLHudPQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLHudPc4CcoX8"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="purple_dark"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
 {%- endblock %}

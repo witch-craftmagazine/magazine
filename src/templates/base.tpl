@@ -73,20 +73,5 @@
 {# This is the start of the `script` block. Most pages don't need any javascript, so by default it's blank, but some
    pages like infinite_scroll.tpl will fill this in with a <script> tag. #}
 {% block script %}
-<script src="https://giscus.app/client.js"
-        data-repo="witch-craftmagazine/magazine"
-        data-repo-id="R_kgDOLHudPQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOLHudPc4CcoX8"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="purple_dark"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
 {% endblock %}
 </html>
