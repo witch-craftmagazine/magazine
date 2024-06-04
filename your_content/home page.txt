@@ -53,6 +53,7 @@
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue12-01">Halloween Special</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue13-01">Christmas Edition</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue14-01">Issue 13</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue15-01">Issue 14</a></li>
     </ul>
     More to come!
     </h1>
