@@ -44,21 +44,21 @@
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue03-01">Issue 3</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue04-01">Issue 4</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue05-01">Issue 5</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue06-01">Halloween Edition</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue07-01">Christmas Edition</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue06-01">Issue 6 Halloween Edition 2022</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue07-01">Issue 7 Christmas Edition 2022</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue08-01">Issue 8</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue09-01">Issue 9</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue10-01">Issue 10</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue11-01">Halloween Edition</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue12-01">Halloween Special</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue13-01">Christmas Edition</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue11-01">Issue 11 Halloween Edition 2023</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue12-01">Halloween Special 2023</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue13-01">Issue 12 Christmas Edition 2023</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue14-01">Issue 13</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue15-01">Issue 14</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue16-01">Issue 15</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue17-01">Issue 16</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue18-01">Issue 17</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue18-01">Issue 17 Halloween Edition 2024</a></li>
       <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue19-01">Issue 18</a></li>
-      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue20-01">Issue 19</a></li>
+      <li><a href="https://witch-craftmagazine.github.io/magazine/comic/issue20-01">Issue 19 Christmas Edition 2024</a></li>
       
     </ul>
     More to come!
