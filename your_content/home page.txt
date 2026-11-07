@@ -1,0 +1,42 @@
+<div class="h-card home-intro">
+    <h1 class="home-title">
+        I am <span class="p-name">the magazine. I have become sentient.</span>
+    </h1>
+
+    <p class="p-note bug-report">
+        P.S. contact [redacted] for bug reports
+    </p>
+
+    <div class="issue-directory">
+        <h2>Published Issues</h2>
+        <ul class="issue-list">
+            <li><a href="comic/issue01-01/">Issue 1</a></li>
+            <li><a href="comic/issue02-01/">Issue 2</a></li>
+            <li><a href="comic/issue03-01/">Issue 3</a></li>
+            <li><a href="comic/issue04-01/">Issue 4</a></li>
+            <li><a href="comic/issue05-01/">Issue 5</a></li>
+            <li><a href="comic/issue06-01/">Issue 6 Halloween Edition 2022</a></li>
+            <li><a href="comic/issue07-01/">Issue 7 Christmas Edition 2022</a></li>
+            <li><a href="comic/issue08-01/">Issue 8</a></li>
+            <li><a href="comic/issue09-01/">Issue 9</a></li>
+            <li><a href="comic/issue10-01/">Issue 10</a></li>
+            <li><a href="comic/issue11-01/">Issue 11 Halloween Edition 2023</a></li>
+            <li><a href="comic/issue12-01/">Halloween Special 2023</a></li>
+            <li><a href="comic/issue13-01/">Issue 12 Christmas Edition 2023</a></li>
+            <li><a href="comic/issue14-01/">Issue 13</a></li>
+            <li><a href="comic/issue15-01/">Issue 14</a></li>
+            <li><a href="comic/issue16-01/">Issue 15</a></li>
+            <li><a href="comic/issue17-01/">Issue 16</a></li>
+            <li><a href="comic/issue18-01/">Issue 17 Halloween Edition 2024</a></li>
+            <li><a href="comic/issue19-01/">Issue 18</a></li>
+            <li><a href="comic/issue20-01/">Issue 19 Christmas Edition 2024</a></li>
+        </ul>
+        <p class="more-to-come"><em>More to come!</em></p>
+    </div>
+
+    <ul class="external-links">
+        <li><a class="u-uid u-url" href="https://linktr.ee/StarSweetpea">Magic Links</a></li>
+        <li>My soul: <a class="u-url" href="https://github.com/witch-craftmagazine" rel="me">@witch-craftmagazine</a></li>
+        <li>My eyes: <a class="u-url" href="https://www.youtube.com/@starsweetpea111" rel="me">@starsweetpea</a></li>
+    </ul>
+</div>

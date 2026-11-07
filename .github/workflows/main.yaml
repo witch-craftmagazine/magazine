@@ -1,0 +1,19 @@
+name: Auto-build HTML files
+
+on:
+  push:
+    branches:
+      - working
+  schedule:
+    - cron: '0 8 * * *'  # Runs at 8:00 AM UTC every day
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  call-build-site:
+    uses: comic-git/comic_git_engine/.github/workflows/build_site.yaml@v1.1

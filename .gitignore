@@ -1,0 +1,29 @@
+# comic_git build output
+build/
+output/
+your_content/**/thumbnail.*
+
+# Ignore unoptimized JPGs where PNGs are used
+your_content/comics/issue01-*/*.jpg
+
+# OS and Editor files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# Local logs and temporary files
+*.log
+*.sqlite
+scratch/
+tools/temp/
+python/
